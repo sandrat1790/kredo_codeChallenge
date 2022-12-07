@@ -15,7 +15,7 @@ namespace ProductApp.Web.Api.Controllers
 {
     [Route("api/category")]
     [ApiController]
-    [AllowAnonymous]
+    [AllowAnonymous] //using for testing purpose to bypass postman authen. 
 
     public class CategoryApiController : BaseApiController
     {
