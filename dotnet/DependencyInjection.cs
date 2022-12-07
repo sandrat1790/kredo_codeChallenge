@@ -23,9 +23,7 @@ namespace ProductApp.Web.StartUp
             services.AddSingleton<IConfiguration>(configuration);   // IConfiguration explicitly
 
             string connString = configuration.GetConnectionString("Default");
-            // https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2
-            // The are a number of differe Add* methods you can use. Please verify which one you
-            // should be using services.AddScoped<IMyDependency, MyDependency>();
+            
 
             // services.AddTransient<IOperationTransient, Operation>();
 
@@ -44,11 +42,9 @@ namespace ProductApp.Web.StartUp
             services.AddSingleton<IIdentityProvider<int>, WebAuthenticationService>();
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-            // Do NOT REMOVE this line below.
-            // Edits to the IUserService are OK 
-            services.AddSingleton<IUserService, UserService>();
 
-            //services.AddSingleton<ISecretSantaParticipantService, SecretSantaParticipantService>();
+
+
             services.AddSingleton<ICategoryService, CategoryService>();
             services.AddSingleton<IProductService, ProductService>();
         }
