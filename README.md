@@ -21,6 +21,8 @@ In the final stages I did find bug when navigating through pages while manually 
 With more time and if I plan to continue building this app after submission, I would circle back to React and possibly refactor the api call functions
 to address the bug.
 
+I have also built stored procs, services, and endpoint for api calls that were not originally required for this challenge.
+
 ## Authors
 
 Sandra Tuong 
