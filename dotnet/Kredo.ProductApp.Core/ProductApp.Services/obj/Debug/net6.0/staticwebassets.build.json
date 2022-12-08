@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "fv2VsPI0gHgAUY/SCm3UmGlHaEu12YYgZVDR9C/YWLQ=",
+  "Source": "ProductApp.Services",
+  "BasePath": "_content/ProductApp.Services",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\myCodes\\KredoCodeChallenge\\dotnet\\Kredo.ProductApp.Core\\ProductApp.Data\\ProductApp.Data.csproj",
+      "Version": 2,
+      "Source": "ProductApp.Data",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

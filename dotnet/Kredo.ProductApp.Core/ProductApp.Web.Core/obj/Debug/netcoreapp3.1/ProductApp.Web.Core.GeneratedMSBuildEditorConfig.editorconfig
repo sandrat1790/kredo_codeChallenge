@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ProductApp.Web.Core
+build_property.ProjectDir = C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Core\

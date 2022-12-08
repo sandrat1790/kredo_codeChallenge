@@ -1,0 +1,15 @@
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\ProductApp.Data.csproj.AssemblyReference.cache
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\ProductApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\ProductApp.Data.AssemblyInfoInputs.cache
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\ProductApp.Data.AssemblyInfo.cs
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\ProductApp.Data.csproj.CoreCompileInputs.cache
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\bin\Debug\net6.0\ProductApp.Data.deps.json
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\bin\Debug\net6.0\ProductApp.Data.dll
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\bin\Debug\net6.0\ProductApp.Data.pdb
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\staticwebassets.build.json
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\staticwebassets.development.json
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\scopedcss\bundle\ProductApp.Data.styles.css
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\ProductApp.Data.dll
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\refint\ProductApp.Data.dll
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\ProductApp.Data.pdb
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Data\obj\Debug\net6.0\ref\ProductApp.Data.dll

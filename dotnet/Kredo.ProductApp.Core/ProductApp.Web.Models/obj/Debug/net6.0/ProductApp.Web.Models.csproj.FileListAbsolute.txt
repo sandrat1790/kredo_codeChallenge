@@ -1,0 +1,16 @@
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\ProductApp.Web.Models.csproj.AssemblyReference.cache
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\ProductApp.Web.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\ProductApp.Web.Models.AssemblyInfoInputs.cache
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\ProductApp.Web.Models.AssemblyInfo.cs
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\ProductApp.Web.Models.csproj.CoreCompileInputs.cache
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\bin\Debug\net6.0\libman.json
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\bin\Debug\net6.0\ProductApp.Web.Models.deps.json
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\bin\Debug\net6.0\ProductApp.Web.Models.dll
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\bin\Debug\net6.0\ProductApp.Web.Models.pdb
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\staticwebassets.build.json
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\staticwebassets.development.json
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\scopedcss\bundle\ProductApp.Web.Models.styles.css
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\ProductApp.Web.Models.dll
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\refint\ProductApp.Web.Models.dll
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\ProductApp.Web.Models.pdb
+C:\myCodes\KredoCodeChallenge\dotnet\Kredo.ProductApp.Core\ProductApp.Web.Models\obj\Debug\net6.0\ref\ProductApp.Web.Models.dll
